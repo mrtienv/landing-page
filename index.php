@@ -279,11 +279,11 @@ img.emoji {
                                         <div class="item--box">
                                             <div class="item-box1">
                                                 <div class="box-img img-normal"> 
-                                                                                                            <img src="http://klambi.kenzap.com/wp-content/uploads/2016/12/star-product-1.png" alt="Lorem Ipsum Shoes">
+                                                                                                            <img src="./folder/pic-bag/1.jpg" alt="Lorem Ipsum Shoes">
                                                                                                     </div>
                                                 <div class="box-content">
                                                     <div class="title-product-star text-center">
-                                                        <h6 class="text-normal"> <a href="http://klambi.kenzap.com/product-category/shoes/">Shoes </a> </h6>
+                                                            <h6 class="text-normal"> <a href="./folder/pic-bag/1.jpg">Shoes </a> </h6>
                                                         <a class="font12 text-bold" href="http://klambi.kenzap.com/product-category/shoes/">Lorem Ipsum Shoes </a>
                                                     </div>
                                                     <div class="add-cart text-center">
@@ -299,7 +299,7 @@ img.emoji {
                                         <div class="item--box">
                                             <div class="item-box1">
                                                 <div class="box-img img-left"> 
-                                                                                                            <img src="http://klambi.kenzap.com/wp-content/uploads/2016/12/star-product-2.png" alt="Night Outdoor Shoes">
+                                                                                                            <img src="./folder/pic-bag/6.jpg" alt="Night Outdoor Shoes">
                                                                                                     </div>
                                                 <div class="box-content">
                                                     <div class="title-product-star text-center">
@@ -319,7 +319,7 @@ img.emoji {
                                         <div class="item--box">
                                             <div class="item-box1">
                                                 <div class="box-img img-right"> 
-                                                                                                            <img src="http://klambi.kenzap.com/wp-content/uploads/2016/12/star-product-3.png" alt="Gold Women Bags">
+                                                                                                            <img src="./folder/pic-bag/3.jpg" alt="Gold Women Bags">
                                                                                                     </div>
                                                 <div class="box-content">
                                                     <div class="title-product-star text-center">
@@ -339,7 +339,7 @@ img.emoji {
                                         <div class="item--box">
                                             <div class="item-box1">
                                                 <div class="box-img img-top"> 
-                                                                                                            <img src="http://klambi.kenzap.com/wp-content/uploads/2016/12/star-product-4.png" alt="Autumn Season Footwear ">
+                                                                                                            <img src="./folder/pic-bag/4.jpg" alt="Autumn Season Footwear ">
                                                                                                     </div>
                                                 <div class="box-content">
                                                     <div class="title-product-star text-center">
@@ -359,7 +359,7 @@ img.emoji {
                                         <div class="item--box">
                                             <div class="item-box1">
                                                 <div class="box-img img-normal"> 
-                                                                                                            <img src="http://klambi.kenzap.com/wp-content/uploads/2016/12/star-product-5.png" alt="Summer Beach Shoes">
+                                                                                                            <img src="./folder/pic-bag/5.jpg" alt="Summer Beach Shoes">
                                                                                                     </div>
                                                 <div class="box-content">
                                                     <div class="title-product-star text-center">
@@ -379,7 +379,7 @@ img.emoji {
                                         <div class="item--box">
                                             <div class="item-box1">
                                                 <div class="box-img img-normal"> 
-                                                                                                            <img src="http://klambi.kenzap.com/wp-content/uploads/2016/12/star-product-6.png" alt="Modern Women Hats">
+                                                                                                            <img src="./folder/pic-bag/6.jpg" alt="Modern Women Hats">
                                                                                                     </div>
                                                 <div class="box-content">
                                                     <div class="title-product-star text-center">
@@ -423,7 +423,7 @@ img.emoji {
                                         <div class="item--box">
                                             <div class="item-box1">
                                                 <div class="box-img img-left"> 
-                                                                                                            <img src="http://klambi.kenzap.com/wp-content/uploads/2016/12/star-product-2.png" alt="Night Outdoor Shoes">
+                                                                                                            <img src="./folder/pic-bag/2.jpg" alt="Night Outdoor Shoes">
                                                                                                     </div>
                                                 <div class="box-content">
                                                     <div class="title-product-star text-center">
@@ -443,7 +443,7 @@ img.emoji {
                                         <div class="item--box">
                                             <div class="item-box1">
                                                 <div class="box-img img-right"> 
-                                                                                                            <img src="http://klambi.kenzap.com/wp-content/uploads/2016/12/star-product-3.png" alt="Gold Women Bags">
+                                                                                                            <img src="./folder/pic-bag/3.jpg" alt="Gold Women Bags">
                                                                                                     </div>
                                                 <div class="box-content">
                                                     <div class="title-product-star text-center">
@@ -463,7 +463,7 @@ img.emoji {
                                         <div class="item--box">
                                             <div class="item-box1">
                                                 <div class="box-img img-top"> 
-                                                                                                            <img src="http://klambi.kenzap.com/wp-content/uploads/2016/12/star-product-4.png" alt="Autumn Season Footwear ">
+                                                                                                            <img src="./folder/pic-bag/4.jpg" alt="Autumn Season Footwear ">
                                                                                                     </div>
                                                 <div class="box-content">
                                                     <div class="title-product-star text-center">
@@ -483,7 +483,7 @@ img.emoji {
                                         <div class="item--box">
                                             <div class="item-box1">
                                                 <div class="box-img img-normal"> 
-                                                                                                            <img src="http://klambi.kenzap.com/wp-content/uploads/2016/12/star-product-5.png" alt="Summer Beach Shoes">
+                                                                                                            <img src="./folder/pic-bag/5.jpg" alt="Summer Beach Shoes">
                                                                                                     </div>
                                                 <div class="box-content">
                                                     <div class="title-product-star text-center">
@@ -503,7 +503,7 @@ img.emoji {
                                         <div class="item--box">
                                             <div class="item-box1">
                                                 <div class="box-img img-normal"> 
-                                                                                                            <img src="http://klambi.kenzap.com/wp-content/uploads/2016/12/star-product-6.png" alt="Modern Women Hats">
+                                                                                                            <img src="./folder/pic-bag/6.jpg" alt="Modern Women Hats">
                                                                                                     </div>
                                                 <div class="box-content">
                                                     <div class="title-product-star text-center">
@@ -541,10 +541,11 @@ img.emoji {
             <div class="container-slider">
                 <div class="product-slider">
                                             <ul class="columns4 no-padding list-product">
+                                                <?php for($i = 0; $i < 6; $i++) : ?>
                                                             <li class="item">
                                     <div class="img__product position-relative">
                                         <a href="http://klambi.kenzap.com/product/fay-jacket/" class="font15 text-bold">
-                                        <img width="270" height="340" src="http://klambi.kenzap.com/wp-content/uploads/2016/11/41661889jo_14_f-270x340.jpg" class="img-responsive wp-post-image" alt="" loading="lazy" srcset="http://klambi.kenzap.com/wp-content/uploads/2016/11/41661889jo_14_f-270x340.jpg 270w, http://klambi.kenzap.com/wp-content/uploads/2016/11/41661889jo_14_f-169x214.jpg 169w" sizes="(max-width: 270px) 100vw, 270px" />                                        </a>
+                                        <img width="270" height="340" src="./folder/pic-bag/6.jpg" class="img-responsive wp-post-image" alt="" loading="lazy" sizes="(max-width: 270px) 100vw, 270px" />                                        </a>
                                     </div>
                                     <div class="cart-item-info position-absolute">
                                         <div class="title-content">
@@ -559,132 +560,7 @@ img.emoji {
                                         </div>
                                     </div>
                                 </li>
-                                                            <li class="item">
-                                    <div class="img__product position-relative">
-                                        <a href="http://klambi.kenzap.com/product/t-by-alexander-wang/" class="font15 text-bold">
-                                        <img width="270" height="340" src="http://klambi.kenzap.com/wp-content/uploads/2016/11/41639084kh_14_f-1-270x340.jpg" class="img-responsive wp-post-image" alt="" loading="lazy" srcset="http://klambi.kenzap.com/wp-content/uploads/2016/11/41639084kh_14_f-1-270x340.jpg 270w, http://klambi.kenzap.com/wp-content/uploads/2016/11/41639084kh_14_f-1-169x214.jpg 169w" sizes="(max-width: 270px) 100vw, 270px" />                                        </a>
-                                    </div>
-                                    <div class="cart-item-info position-absolute">
-                                        <div class="title-content">
-                                            <a href="http://klambi.kenzap.com/product/t-by-alexander-wang/" class="font15 text-bold">T by Alexander Wang</a>
-
-                                                <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>522.00</bdi></span>
-                                            <div class="add-cart add-cart-item text-center">
-                                                <form action="http://klambi.kenzap.com/product/t-by-alexander-wang/">
-                                                    <button class="font-15 link-add">Add to Cart</button>
-                                                </form>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                                            <li class="item">
-                                    <div class="img__product position-relative">
-                                        <a href="http://klambi.kenzap.com/product/dsquared2-jacket-4/" class="font15 text-bold">
-                                        <img width="270" height="340" src="http://klambi.kenzap.com/wp-content/uploads/2016/11/41634653om_14_f-270x340.jpg" class="img-responsive wp-post-image" alt="" loading="lazy" srcset="http://klambi.kenzap.com/wp-content/uploads/2016/11/41634653om_14_f-270x340.jpg 270w, http://klambi.kenzap.com/wp-content/uploads/2016/11/41634653om_14_f-169x214.jpg 169w" sizes="(max-width: 270px) 100vw, 270px" />                                        </a>
-                                    </div>
-                                    <div class="cart-item-info position-absolute">
-                                        <div class="title-content">
-                                            <a href="http://klambi.kenzap.com/product/dsquared2-jacket-4/" class="font15 text-bold">Dsquared2 Jacket</a>
-
-                                                <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>866.00</bdi></span>
-                                            <div class="add-cart add-cart-item text-center">
-                                                <form action="http://klambi.kenzap.com/product/dsquared2-jacket-4/">
-                                                    <button class="font-15 link-add">Add to Cart</button>
-                                                </form>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                                            <li class="item">
-                                    <div class="img__product position-relative">
-                                        <a href="http://klambi.kenzap.com/product/sacai-bomber/" class="font15 text-bold">
-                                        <img width="270" height="340" src="http://klambi.kenzap.com/wp-content/uploads/2016/11/41645646wa_14_f-270x340.jpg" class="img-responsive wp-post-image" alt="" loading="lazy" srcset="http://klambi.kenzap.com/wp-content/uploads/2016/11/41645646wa_14_f-270x340.jpg 270w, http://klambi.kenzap.com/wp-content/uploads/2016/11/41645646wa_14_f-169x214.jpg 169w" sizes="(max-width: 270px) 100vw, 270px" />                                        </a>
-                                    </div>
-                                    <div class="cart-item-info position-absolute">
-                                        <div class="title-content">
-                                            <a href="http://klambi.kenzap.com/product/sacai-bomber/" class="font15 text-bold">Sacai Bomber</a>
-
-                                                <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>539.00</bdi></span>
-                                            <div class="add-cart add-cart-item text-center">
-                                                <form action="http://klambi.kenzap.com/product/sacai-bomber/">
-                                                    <button class="font-15 link-add">Add to Cart</button>
-                                                </form>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                                            <li class="item">
-                                    <div class="img__product position-relative">
-                                        <a href="http://klambi.kenzap.com/product/kenzo-jacket/" class="font15 text-bold">
-                                        <img width="270" height="340" src="http://klambi.kenzap.com/wp-content/uploads/2016/11/41635386an_14_f-270x340.jpg" class="img-responsive wp-post-image" alt="" loading="lazy" srcset="http://klambi.kenzap.com/wp-content/uploads/2016/11/41635386an_14_f-270x340.jpg 270w, http://klambi.kenzap.com/wp-content/uploads/2016/11/41635386an_14_f-169x214.jpg 169w" sizes="(max-width: 270px) 100vw, 270px" />                                        </a>
-                                    </div>
-                                    <div class="cart-item-info position-absolute">
-                                        <div class="title-content">
-                                            <a href="http://klambi.kenzap.com/product/kenzo-jacket/" class="font15 text-bold">Kenzo Jacket</a>
-
-                                                <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>340.00</bdi></span>
-                                            <div class="add-cart add-cart-item text-center">
-                                                <form action="http://klambi.kenzap.com/product/kenzo-jacket/">
-                                                    <button class="font-15 link-add">Add to Cart</button>
-                                                </form>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                                            <li class="item">
-                                    <div class="img__product position-relative">
-                                        <a href="http://klambi.kenzap.com/product/ermanno-scervino-2/" class="font15 text-bold">
-                                        <img width="270" height="340" src="http://klambi.kenzap.com/wp-content/uploads/2016/11/41645527fn_14_f-270x340.jpg" class="img-responsive wp-post-image" alt="" loading="lazy" srcset="http://klambi.kenzap.com/wp-content/uploads/2016/11/41645527fn_14_f-270x340.jpg 270w, http://klambi.kenzap.com/wp-content/uploads/2016/11/41645527fn_14_f-169x214.jpg 169w" sizes="(max-width: 270px) 100vw, 270px" />                                        </a>
-                                    </div>
-                                    <div class="cart-item-info position-absolute">
-                                        <div class="title-content">
-                                            <a href="http://klambi.kenzap.com/product/ermanno-scervino-2/" class="font15 text-bold">Ermanno Scervino</a>
-
-                                                <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>506.00</bdi></span>
-                                            <div class="add-cart add-cart-item text-center">
-                                                <form action="http://klambi.kenzap.com/product/ermanno-scervino-2/">
-                                                    <button class="font-15 link-add">Add to Cart</button>
-                                                </form>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                                            <li class="item">
-                                    <div class="img__product position-relative">
-                                        <a href="http://klambi.kenzap.com/product/dsquared2-jacket-3/" class="font15 text-bold">
-                                        <img width="270" height="340" src="http://klambi.kenzap.com/wp-content/uploads/2016/11/41637315hm_14_f-270x340.jpg" class="img-responsive wp-post-image" alt="" loading="lazy" srcset="http://klambi.kenzap.com/wp-content/uploads/2016/11/41637315hm_14_f-270x340.jpg 270w, http://klambi.kenzap.com/wp-content/uploads/2016/11/41637315hm_14_f-169x214.jpg 169w" sizes="(max-width: 270px) 100vw, 270px" />                                        </a>
-                                    </div>
-                                    <div class="cart-item-info position-absolute">
-                                        <div class="title-content">
-                                            <a href="http://klambi.kenzap.com/product/dsquared2-jacket-3/" class="font15 text-bold">Dsquared2 Jacket</a>
-
-                                                <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>342.00</bdi></span>
-                                            <div class="add-cart add-cart-item text-center">
-                                                <form action="http://klambi.kenzap.com/product/dsquared2-jacket-3/">
-                                                    <button class="font-15 link-add">Add to Cart</button>
-                                                </form>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                                            <li class="item">
-                                    <div class="img__product position-relative">
-                                        <a href="http://klambi.kenzap.com/product/dsquared2-jacket-2/" class="font15 text-bold">
-                                        <img width="270" height="340" src="http://klambi.kenzap.com/wp-content/uploads/2016/11/41652272rt_14_f-270x340.jpg" class="img-responsive wp-post-image" alt="" loading="lazy" srcset="http://klambi.kenzap.com/wp-content/uploads/2016/11/41652272rt_14_f-270x340.jpg 270w, http://klambi.kenzap.com/wp-content/uploads/2016/11/41652272rt_14_f-169x214.jpg 169w" sizes="(max-width: 270px) 100vw, 270px" />                                        </a>
-                                    </div>
-                                    <div class="cart-item-info position-absolute">
-                                        <div class="title-content">
-                                            <a href="http://klambi.kenzap.com/product/dsquared2-jacket-2/" class="font15 text-bold">Dsquared2 Jacket</a>
-
-                                                <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>601.00</bdi></span>
-                                            <div class="add-cart add-cart-item text-center">
-                                                <form action="http://klambi.kenzap.com/product/dsquared2-jacket-2/">
-                                                    <button class="font-15 link-add">Add to Cart</button>
-                                                </form>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
+                                                 <?php endfor ?>
                              
                         </ul>
                                     </div>
@@ -693,132 +569,6 @@ img.emoji {
         <!--/Newest Items-->
 
    </div></div><div id="panel-3147-0-0-3" class="so-panel widget widget_klambi_productbest_widget" data-index="3" ><div class="so-widget-klambi_productbest_widget so-widget-klambi_productbest_widget-default-d75171398898">
-        <!--Best Seller-->
-        <div class="best-seller">
-            <div class="container">
-                <div class="title text-center">
-                    <h4>Best Seller</h4>
-                </div>
-            </div>
-            <div class="container-slider">
-                <div class="product-slider">
-                                            <ul class="columns4-bestseller no-padding list-product">
-                                                    <li class="item">
-                                <div class="img__product position-relative">
-                                    <a href="http://klambi.kenzap.com/product/night-crawl-jacket/" >
-                                        <img width="270" height="340" src="http://klambi.kenzap.com/wp-content/uploads/2016/12/36105.5.zoom_-270x340.jpg" class="product-image img-responsive wp-post-image" alt="" loading="lazy" srcset="http://klambi.kenzap.com/wp-content/uploads/2016/12/36105.5.zoom_-270x340.jpg 270w, http://klambi.kenzap.com/wp-content/uploads/2016/12/36105.5.zoom_-169x214.jpg 169w" sizes="(max-width: 270px) 100vw, 270px" />                                    </a>
-                                    <span class="font11 label-seller label-item position-absolute position-top">Best Seller</span>
-                                </div>
-                                <div class="cart-item-info position-absolute">
-                                    <div class="title-content">
-                                        <div class="ratings">
-                                            <div class="rating-box">
-                                                <div class="rating"></div>
-                                            </div>
-                                        </div>
-                                        <a href="http://klambi.kenzap.com/product/night-crawl-jacket/" class="font15 text-bold">Night Crawl Jacket</a>
-                                        <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>60.00</bdi></span>                                        <div class="add-cart add-cart-item text-center">
-                                            <form action="http://klambi.kenzap.com/product/night-crawl-jacket/">
-                                                <button class="font-15 link-add">Add to Cart</button>
-                                            </form>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                                                    <li class="item">
-                                <div class="img__product position-relative">
-                                    <a href="http://klambi.kenzap.com/product/sports-jacket-t-type/" >
-                                        <img width="270" height="340" src="http://klambi.kenzap.com/wp-content/uploads/2016/12/36102.0.zoom_-270x340.jpg" class="product-image img-responsive wp-post-image" alt="" loading="lazy" srcset="http://klambi.kenzap.com/wp-content/uploads/2016/12/36102.0.zoom_-270x340.jpg 270w, http://klambi.kenzap.com/wp-content/uploads/2016/12/36102.0.zoom_-169x214.jpg 169w" sizes="(max-width: 270px) 100vw, 270px" />                                    </a>
-                                    <span class="font11 label-seller label-item position-absolute position-top">Best Seller</span>
-                                </div>
-                                <div class="cart-item-info position-absolute">
-                                    <div class="title-content">
-                                        <div class="ratings">
-                                            <div class="rating-box">
-                                                <div class="rating"></div>
-                                            </div>
-                                        </div>
-                                        <a href="http://klambi.kenzap.com/product/sports-jacket-t-type/" class="font15 text-bold">Sports Jacket T Type</a>
-                                        <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>100.00</bdi></span>                                        <div class="add-cart add-cart-item text-center">
-                                            <form action="http://klambi.kenzap.com/product/sports-jacket-t-type/">
-                                                <button class="font-15 link-add">Add to Cart</button>
-                                            </form>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                                                    <li class="item">
-                                <div class="img__product position-relative">
-                                    <a href="http://klambi.kenzap.com/product/tropicana-cardinag/" >
-                                        <img width="270" height="340" src="http://klambi.kenzap.com/wp-content/uploads/2016/12/36827.2.zoom_-270x340.jpg" class="product-image img-responsive wp-post-image" alt="" loading="lazy" srcset="http://klambi.kenzap.com/wp-content/uploads/2016/12/36827.2.zoom_-270x340.jpg 270w, http://klambi.kenzap.com/wp-content/uploads/2016/12/36827.2.zoom_-169x214.jpg 169w" sizes="(max-width: 270px) 100vw, 270px" />                                    </a>
-                                    <span class="font11 label-seller label-item position-absolute position-top">Best Seller</span>
-                                </div>
-                                <div class="cart-item-info position-absolute">
-                                    <div class="title-content">
-                                        <div class="ratings">
-                                            <div class="rating-box">
-                                                <div class="rating"></div>
-                                            </div>
-                                        </div>
-                                        <a href="http://klambi.kenzap.com/product/tropicana-cardinag/" class="font15 text-bold">Tropicana Cardinag</a>
-                                        <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>34.00</bdi></span>                                        <div class="add-cart add-cart-item text-center">
-                                            <form action="http://klambi.kenzap.com/product/tropicana-cardinag/">
-                                                <button class="font-15 link-add">Add to Cart</button>
-                                            </form>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                                                    <li class="item">
-                                <div class="img__product position-relative">
-                                    <a href="http://klambi.kenzap.com/product/supernova-chain-cloack/" >
-                                        <img width="270" height="340" src="http://klambi.kenzap.com/wp-content/uploads/2016/12/35600.5.zoom_-270x340.jpg" class="product-image img-responsive wp-post-image" alt="" loading="lazy" srcset="http://klambi.kenzap.com/wp-content/uploads/2016/12/35600.5.zoom_-270x340.jpg 270w, http://klambi.kenzap.com/wp-content/uploads/2016/12/35600.5.zoom_-169x214.jpg 169w" sizes="(max-width: 270px) 100vw, 270px" />                                    </a>
-                                    <span class="font11 label-seller label-item position-absolute position-top">Best Seller</span>
-                                </div>
-                                <div class="cart-item-info position-absolute">
-                                    <div class="title-content">
-                                        <div class="ratings">
-                                            <div class="rating-box">
-                                                <div class="rating"></div>
-                                            </div>
-                                        </div>
-                                        <a href="http://klambi.kenzap.com/product/supernova-chain-cloack/" class="font15 text-bold">Supernova Chain Cloack</a>
-                                        <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>80.00</bdi></span>                                        <div class="add-cart add-cart-item text-center">
-                                            <form action="http://klambi.kenzap.com/product/supernova-chain-cloack/">
-                                                <button class="font-15 link-add">Add to Cart</button>
-                                            </form>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                                                    <li class="item">
-                                <div class="img__product position-relative">
-                                    <a href="http://klambi.kenzap.com/product/supernova-chain-bra/" >
-                                        <img width="270" height="340" src="http://klambi.kenzap.com/wp-content/uploads/2016/12/35068.0.zoom_-270x340.jpg" class="product-image img-responsive wp-post-image" alt="" loading="lazy" srcset="http://klambi.kenzap.com/wp-content/uploads/2016/12/35068.0.zoom_-270x340.jpg 270w, http://klambi.kenzap.com/wp-content/uploads/2016/12/35068.0.zoom_-169x214.jpg 169w" sizes="(max-width: 270px) 100vw, 270px" />                                    </a>
-                                    <span class="font11 label-seller label-item position-absolute position-top">Best Seller</span>
-                                </div>
-                                <div class="cart-item-info position-absolute">
-                                    <div class="title-content">
-                                        <div class="ratings">
-                                            <div class="rating-box">
-                                                <div class="rating"></div>
-                                            </div>
-                                        </div>
-                                        <a href="http://klambi.kenzap.com/product/supernova-chain-bra/" class="font15 text-bold">Supernova Chain Bra</a>
-                                        <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>99.99</bdi></span>                                        <div class="add-cart add-cart-item text-center">
-                                            <form action="http://klambi.kenzap.com/product/supernova-chain-bra/">
-                                                <button class="font-15 link-add">Add to Cart</button>
-                                            </form>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                         
-                        </ul>
-                                    </div>
-            </div>
-        </div>
-        <!--/Best Seller-->
 
    </div></div><div id="panel-3147-0-0-4" class="so-panel widget widget_klambi_productlimited_widget" data-index="4" ><div class="so-widget-klambi_productlimited_widget so-widget-klambi_productlimited_widget-default-d75171398898">
         <!--Limited Time Offer-->
@@ -838,10 +588,11 @@ img.emoji {
                                             </div>
                     <div class="limited-time-offer__slide col-lg-9 col-xs-12">
                                                     <ul class="columns3 block-time-offer">
+                                                        <?php for($i = 0; $i < 4; $i++) : ?>
                                                             <li class="item">
                                     <div class="image-time-offer position-relative">
                                         <a href="http://klambi.kenzap.com/product/onefaced-sweater/">
-                                            <img width="270" height="459" src="http://klambi.kenzap.com/wp-content/uploads/2016/12/410096901-270x459.jpeg" class="img-responsive wp-post-image" alt="" loading="lazy" />                                        </a>
+                                            <img width="270" height="459" src="./folder/pic-bag/8.jpg" class="img-responsive wp-post-image" alt="" loading="lazy" />                                        </a>
                                         <div class="price-time-offer position-absolute position-bottom">
                                             
 
@@ -852,49 +603,8 @@ img.emoji {
                                         </div>
                                     </div>
                                 </li>
-                                                            <li class="item">
-                                    <div class="image-time-offer position-relative">
-                                        <a href="http://klambi.kenzap.com/product/superfaced-sweater/">
-                                            <img width="270" height="459" src="http://klambi.kenzap.com/wp-content/uploads/2016/12/410096902-270x459.jpeg" class="img-responsive wp-post-image" alt="" loading="lazy" />                                        </a>
-                                        <div class="price-time-offer position-absolute position-bottom">
-                                            
-
-                                                                                        <span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>175.00</bdi></span></span>
-                                            <span class="un-price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>188.00</bdi></span></span>
-                                            
-
-                                        </div>
-                                    </div>
-                                </li>
-                                                            <li class="item">
-                                    <div class="image-time-offer position-relative">
-                                        <a href="http://klambi.kenzap.com/product/antifaced-sweater/">
-                                            <img width="270" height="459" src="http://klambi.kenzap.com/wp-content/uploads/2016/12/364478201_alt02-270x459.jpeg" class="img-responsive wp-post-image" alt="" loading="lazy" />                                        </a>
-                                        <div class="price-time-offer position-absolute position-bottom">
-                                            
-
-                                                                                        <span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>88.00</bdi></span></span>
-                                            <span class="un-price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>89.00</bdi></span></span>
-                                            
-
-                                        </div>
-                                    </div>
-                                </li>
-                                                            <li class="item">
-                                    <div class="image-time-offer position-relative">
-                                        <a href="http://klambi.kenzap.com/product/doublefaced-sweater/">
-                                            <img width="270" height="459" src="http://klambi.kenzap.com/wp-content/uploads/2016/12/411295801-270x459.jpeg" class="img-responsive wp-post-image" alt="" loading="lazy" />                                        </a>
-                                        <div class="price-time-offer position-absolute position-bottom">
-                                            
-
-                                                                                        <span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>123.00</bdi></span></span>
-                                            
-
-                                        </div>
-                                    </div>
-                                </li>
-                             
-                            </ul>
+                                                        <?php endfor ?>
+                                                    </ul>
                                             </div>
                 </div>
             </div>

@@ -771,7 +771,7 @@
                                         <div class="arrival-image-overlay">
                                             <figure>
                                                 <span class="overlay-two"></span>
-                                                <img src="assets/images/best-product/watch-4.jpg" alt="">
+                                                <img src="pic-bag/4.jpg" alt="">
                                                 <figcaption>
                                                     <ul class="cart-icon">
                                                         <li><a href="#"><span class="add-to-wish">add to wishlist</span><i class="fa fa-heart" aria-hidden="true"></i></a></li>
